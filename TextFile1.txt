@@ -1,0 +1,189 @@
+  //         Console.WriteLine(remove_char("w3resource", 1));
+          //         Console.WriteLine(remove_char("w3resource", 9));
+          //         Console.WriteLine(remove_char("w3resource", 0));
+          //     }
+          //     public static string remove_char(string str, int n)
+          //     {
+          //         return str.Remove(n, 1);
+          //     }
+
+
+
+
+
+
+         // uppgift 7 loop
+         //        Console.WriteLine("Skriv bredd");
+         //        int x = int.Parse(Console.ReadLine());
+         //        Console.WriteLine("skriv höjd");
+         //        int y = int.Parse(Console.ReadLine()); 
+         //
+         //        for (int i = 0; i < y; i++)
+         //        {
+         //
+         //            Console.WriteLine();
+         //            for (int j = 0; j < x; j++)
+         //            {
+         //                if (i % 2 == 0)
+         //                {
+         //
+         //                if (j % 2 == 0)
+         //                {
+         //                    Console.Write("X");
+         //
+         //                }
+         //                else 
+         //                {
+         //                    Console.Write("O");
+         //                }
+         //                }
+         //                else
+         //                {
+         //                    if (j % 2 == 1)
+         //                    {
+         //                        Console.Write("X");
+         //
+         //                    }
+         //                    else
+         //                    {
+         //                        Console.Write("O");
+         //                    }
+         //                }
+      
+      
+         //    }
+
+
+
+
+
+
+
+
+
+          // Uppgift 6
+         //Console.WriteLine("skriv en bredd");
+         //int bredd = int.Parse(Console.ReadLine());
+         //Console.WriteLine("skriv en höjd");
+         //int höjd = int.Parse(Console.ReadLine());
+
+         //for (int i = 0; i < höjd; i++)
+         //{
+         //    Console.WriteLine();
+         //    for (int j = 0; j < bredd; j++)
+         //    {
+         //        if (j % 2 == 0)
+         //        {
+         //            Console.Write("X");
+         //        else
+         //        {
+         //            Console.Write("O");
+         //        }
+         //    }
+
+         //}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+         // uppgift 5 loopar
+         //     Console.WriteLine("skriv en bredd");
+         //     int bredd = int.Parse(Console.ReadLine());
+         //     Console.WriteLine("skriv en höjd");
+         //     int höjd = int.Parse(Console.ReadLine());
+         //
+         //    for (int i = 0; i < höjd; i++)
+         //     {
+         //         Console.WriteLine();
+         //         for (int j = 0; j < bredd; j++)
+         //         {
+         //             Console.Write("X");
+         //         }
+         //
+         //     }
+
+
+
+
+
+
+
+
+
+         // Uppgift 4 loopar
+         //        Console.WriteLine(" skriv in ett tal:");
+         //         int tal = int.Parse(Console.ReadLine());
+         //
+         //
+         //        
+         //        for (int i = 2; i <= 10; i++)
+         //        {
+         //            
+         //            Console.WriteLine(tal * i);
+         //        }
+
+
+
+
+
+
+
+
+          // uppgift 3 loopar
+         //        for (int i = 0; i <= 30; i++)
+         //        {
+         //            if (i % 3 == 0)
+          //            {
+         //                Console.WriteLine("hej");
+         //            }
+         //            else
+         //            {
+         //                Console.WriteLine(i);
+         //            }
+         //        }
+
+
+
+
+
+
+
+         // uppgift 2 loop
+         //        for (int i = 0; i <= 30; i+=2)
+         //        {
+         //            
+         //            Console.WriteLine(i);
+         //        }
+
+
+
+
+
+
+
+
+
+
+          // Uppgift 3
+         //                Console.WriteLine("skriv in ditt förnamn");
+          //                string förNamn = Console.ReadLine();
+         //
+         //       bool isPontus = (förNamn == "Pontus");
+         //                if (isPontus)
+         //                {
+         //                    Console.WriteLine("Hej, du är personen jag tänkte på");
+         //                }
+         //                else 
+         //                {
+         //                    Console.WriteLine("vem är du?");
+         //                }
